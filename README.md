@@ -18,7 +18,3 @@ The Garnet extension reads field values shown on the web page you are viewing (f
 ## Data processed by the Garnet assistant
 
 The Garnet assistant (the web application the extension supports) processes questions and on-screen context to generate answers. The handling of that data by the Garnet application is governed by the agreement between Red Summit Consulting and the organization using Garnet, and is separate from this extension.
-
-## Contact
-
-For questions about this privacy policy, contact Red Summit Consulting at osman@redsummit.ca.
